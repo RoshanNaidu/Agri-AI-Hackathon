@@ -13,5 +13,3 @@ A new type of technique has been utilised (by browsing multiple sources) of clas
 
 For a small cycle of 30 epochs only (faster model result check), a favourable score of 87.31% accuracy has been achieved.
 
-# Contact
-Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/roshan-naidu-aka-adonis).
